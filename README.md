@@ -7,17 +7,28 @@ Extract collection Middelheimmuseum open air objects
 * _Deze data is beschikbaar voor iedereen geïnteresseerd in moderne en hedendaagse beeldhouwkunst: geïnteresseerden, lerenden, professionals._
 * _Deze dataset omvat een staal van de permanent tentoongestelde kunstcollectie van het Middelheimmuseum._
 
-## _[naam van je dataset]_
-* _Omschrijf wat er concreet in je dataset zit. (cf. je dataprofiel)_
-* _Omschrijf in welke formaat je data beschikbaar is._
-* _Leg eventueel links naar visualisaties of API's._
+## _Dataset Extract collection Middelheimmuseum open air objects_
+* _ObjectID
+object titel
+object name
+object name ID
+object image
+datum vervaardiging object
+materiaal
+afmetingen
+omschrijving
+creator naam
+creator geboortedatum
+instelling naam
+uri_
+* _Data beschikbaar in CSV._
 
 ## Licenties
-* _Vermeld de licentie op de metadata._
-* _Vermeld de licentie op de beelden._
+* _Metadata: CC0_
+* _Beelden: Open domain._
 
 ## Gebruiksrichtlijnen
-* _Hoe wordt best naar de bron van de data (jouw organisatie) verwezen? (Naamsvermelding)
-* _Hoe verwijs je best naar de inhoud van je data? (cf persistente URI's)_
-* _andere richtlijnen voor gebruik?_
+* _Naamsvermelding: Collectie Stad Antwerpen, Middelheimmuseum._
+* _Bij verwijzing naar data in deze set, gebruik de persistente URI: vb. http://middelheimmuseum.be/collection/work/id/ObjectID_
+
 
