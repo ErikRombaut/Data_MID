@@ -12,8 +12,7 @@ Extract collection Middelheimmuseum open air objects
 * _Data beschikbaar in CSV._
 
 ## Licenties
-* _Metadata: CC0_
-* _Beelden: Open domain._
+* _CC0_ 
 
 ## Gebruiksrichtlijnen
 * _Naamsvermelding: Collectie Stad Antwerpen, Middelheimmuseum._
