@@ -1,11 +1,11 @@
 # Data_MID
 Extract collection Middelheimmuseum open air objects
-# _[naam van je organisatie]_
-* _Vermeld de missie van je organisatie._
-* _Omschrijf bondig welke data je organisatie verzamelt t.b.v. die missie._
+# _Middelheimmuseum_
+* _Het Middelheimmuseum biedt de Antwerpenaar, de bezoeker en andere publieken moderne en hedendaagse beeldhouwkunst en architecturale kunst aan onder de blote hemel._
+* _De kunstcollectie van het Middelheimmuseum omvat objecten vanaf eind 19de eeuw tot nu. Daarnaast heeft het Middelheimmuseum een uitgebreid archief en documentatiecentrum met als specialisatie moderne en hedendaagse beeldhouwkunst, architecturale kunst, en kunst in de open lucht. _
 
-* _Omschrijf wie (een concreet stuk van) die data nodig heeft. (cf. je gebruikscenario)_
-* _Omschrijf welke data je vrij toegankelijk maakt om die nood te lenigen._
+* _Deze data is beschikbaar voor iedereen geïnteresseerd in moderne en hedendaagse beeldhouwkunst: geïnteresseerden, lerenden, professionals._
+* _Deze dataset omvat een staal van de permanent tentoongestelde kunstcollectie van het Middelheimmuseum._
 
 ## _[naam van je dataset]_
 * _Omschrijf wat er concreet in je dataset zit. (cf. je dataprofiel)_
