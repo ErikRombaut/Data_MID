@@ -8,7 +8,7 @@ Extract collection Middelheimmuseum open air objects
 * _Deze dataset omvat een staal van de permanent tentoongestelde kunstcollectie van het Middelheimmuseum._
 
 ## _Dataset: Extract collection Middelheimmuseum open air objects_
-* _ObjectID, object titel, object name, object name ID, datum vervaardiging object, materiaal, afmetingen, omschrijving, creator naam, creator geboortedatum, instelling naam, uri._
+* _ObjectID, object titel, object name, object name ID, datum vervaardiging object, materiaal, afmetingen, creator naam, creator geboortedatum, instelling naam, uri._
 * _Data beschikbaar in CSV._
 
 ## Licenties
